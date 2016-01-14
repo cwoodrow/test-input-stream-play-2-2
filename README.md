@@ -1,0 +1,3 @@
+### test-input-stream-play-2.2
+
+Trying to fix corrupted files error in Play 2 Java application (InputStream + "Content-Type" header)...
